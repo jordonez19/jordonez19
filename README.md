@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ☢ About Me:
 ¡Hola! Soy Javier, aunque todos me llaman Xavi, un desarrollador apasionado por la tecnología con 29 años de Colombia. Tengo experiencia trabajando con diferentes tecnologías, pero me inclino más hacia JavaScript y Python, donde he desarrollado soluciones eficientes y escalables para proyectos que requieren tanto creatividad como precisión técnica.
 
 Siempre estoy en búsqueda de nuevos aprendizajes y desafíos que me ayuden a crecer profesionalmente. Mi enfoque está en escribir código limpio, optimizado y alineado con las mejores prácticas del sector, manteniendo la calidad en cada detalle. Además, disfruto colaborar con equipos diversos, donde puedo aportar mis habilidades y aprender de los demás.
