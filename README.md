@@ -1,9 +1,9 @@
-#👋 ¡Hola! Soy Javier Ordoñez
+# 👋 ¡Hola! Soy Javier Ordoñez
 
 Desarrollador Full Stack apasionado por la tecnología, con más de 4 años de experiencia creando soluciones web escalables y robustas. Me especializo en JavaScript, TypeScript y Python, aunque también tengo experiencia con Java (Spring Boot), Laravel, y despliegue en la nube con AWS y DigitalOcean.
 Me motiva la innovación, el aprendizaje constante y la colaboración en equipos multidisciplinarios. Mi enfoque está en escribir código limpio, optimizado y alineado con las mejores prácticas, siempre buscando la excelencia técnica y la mejora continua.
 
-#👋 Hello! I'm Javier
+# 👋 Hello! I'm Javier
 
 Passionate Full Stack Developer with over 4 years of experience building scalable and robust web solutions. I specialize in JavaScript, TypeScript, and Python, and also have experience with Java (Spring Boot), Laravel, and cloud deployment using AWS and DigitalOcean.
 I am driven by innovation, continuous learning, and collaboration within multidisciplinary teams. My focus is on writing clean, optimized code aligned with best practices, always striving for technical excellence and continuous improvement.
@@ -29,6 +29,7 @@ I am driven by innovation, continuous learning, and collaboration within multidi
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
 
@@ -44,8 +45,7 @@ I am driven by innovation, continuous learning, and collaboration within multidi
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=plastic&logo=amazon-dynamodb&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
